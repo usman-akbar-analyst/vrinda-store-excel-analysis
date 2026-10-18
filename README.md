@@ -4,6 +4,13 @@ A guided Excel portfolio project analysing recorded retail activity in 2022. The
 
 **Scope:** Historical portfolio analysis. Amounts include all statuses and represent recorded values, not confirmed net revenue or profit. Counts are records unless explicitly labelled as distinct Order IDs.
 
+## Dashboard preview
+
+![Vrinda Store dashboard](dashboard/dashboard.png)
+
+[View dashboard PDF](dashboard/dashboard.pdf)
+
+
 ## Project files
 
 - [Excel workbook](workbook/Vrinda_Store_Portfolio.xlsx)
